@@ -1,6 +1,6 @@
 .impheight {
-  height: 60% !important;
-  width: 60% !important;
+  max-height: 15% !important;
+  max-width: 15% !important;
 }
 
 body {
