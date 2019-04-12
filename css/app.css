@@ -1,4 +1,4 @@
-.impheight {
+.impheight2 {
   max-height: 25% !important;
   max-width: 25% !important;
 }
@@ -18,7 +18,7 @@ footer {
 }
 
 .navbar-item img {
-  max-height: 3.5rem !important;
+  /*max-height: 3.5rem !important;*/
 }
 
 .column-header {
