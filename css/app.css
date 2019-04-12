@@ -1,3 +1,7 @@
+.logosize {
+  height: 50%;
+}
+
 body {
   display: flex;
   min-height: 100vh;
