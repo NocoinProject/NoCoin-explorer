@@ -18,16 +18,16 @@ footer {
 
 .column-header {
   display: block;
-  background-color: #00853d;
+  background-color: #4169e1;
 }
 
 .is-trtl-black {
-  background-color: #212721 !important;
+  background-color: #1e2d59 !important;
   color: #fff !important;
 }
 
 .is-trtl-green {
-  background-color: #00853d !important;
+  background-color: #4169e1 !important;
   color: #fff !important;
 }
 
@@ -111,7 +111,7 @@ footer {
 }
 
 .badge[data-badge]::after {
-  background-color: #212721 !important;
+  background-color: #1e2d59 !important;
 }
 
 .chart {
@@ -125,14 +125,14 @@ footer {
 }
 
 a {
-  color: #00853d;
+  color: #4169e1;
 }
 
 .navbar-link.is-active,
 .navbar-link:hover,
 a.navbar-item.is-active,
 a.navbar-item:hover {
-  color: #00853d !important;
+  color: #4169e1 !important;
 }
 
 .trtl-amount,
@@ -169,5 +169,5 @@ a.navbar-item:hover {
 }
 
 .is-ours {
-  background-color: #40c18e !important;
+  background-color: #698bef !important;
 }
