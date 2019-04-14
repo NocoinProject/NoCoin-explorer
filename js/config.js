@@ -1,6 +1,6 @@
 const ExplorerConfig = {
   apiBaseUrl: '87.177.59.70:11898',
-  poolApiUrl: null
+  poolApiUrl: '87.177.59.70:11898',
   poolListUrl: 'https://raw.githubusercontent.com/turtlecoin/turtlecoin-pools-json/master/v2/turtlecoin-pools.json',
   ticker: 'NOC',
   maxSupply: 2100000000000000,
